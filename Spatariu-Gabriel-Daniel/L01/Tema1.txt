@@ -1,0 +1,19 @@
+Stack Overflow 
+
+  Aplicatie de tip site web, cuprinzand intrebari si raspunsuri din domeniul programarii.
+Utilizatorii care intampina diferite dificultati pot veni si posta o intrebare inspre restul
+comunitatii in speranța găsirii unei solutii.
+
+  Din momentul accesarii paginii web, aceasta se divide in doua ramuri."Pentru ezvoltatori",
+si "Pentru afaceri".
+ Prima categorie sau ramură, se adreseaza publicului larg. Toate persoanele au acces la aceasta sectiune. Aici se pot lansa intrebari inspre ceilalti utilizatori. Aceste intrebari, se plaseaza sub forma unei sectiuni care poate cuprinde: un text care descrie problema, secvente de cod, alte materiale auxiliare si linkuri inspre diferite resurse. In plasarea intrebarii se pot folosi TAG-uri, inspre pozitionarea sectiunii intr-o anumita categorie cu intrebari asemanatoare, sau apartinand aceluiasi limbaj de programare. 
+  In sectiunea dedicata intrebarii, aceasta poate sa fie votata. Daca aceasta intrebare este de importanta generala, este structurata corect si clear, aceasta va primi un vot pozitiv.
+Daca intrebarea nu este clara, nu prezinta interes,etc, aceasta poate sa fie votata negativ.
+  In sectiunea dedicata raspunsurilor, se gasesc comentarii si instructiuni inspre rezolvarea sau clarificarea problemei. De asemenea, raspunsurile pot sa fie la randul lor votate. Acumularea de puncte duce la primirea unor achievements. 
+  Sortarea intrebarilor se poate face in functie de data la care au fost adaugate, daca sunt in continuare active, prin filtrarea de tag, cele mai frecvente si multe altele.
+  Creearea unui cont se poate face pe baza de cont Google, cont Facebook , Git, sau creeare de cont neasociat unei aplicatii.
+  Site-ul contine si un sistem de mesaje tip inbox pentru primirea diferitelor tipuri de notificari/mesaje.
+  De asemenea, acest site contine si o sectiune dedicata persoanelor care sunt in cautarea unui job. Astfel, aceste persoane pot sa consulte diferite oferte de job si si acceseze pagini ale diferitelor firme care sunt in cautarea unor angajati.
+  Cu siguranta aceasta platforma contine si alte functionalitati, dar majoritatea dintre cele mai importante au fost descrise in liniile anterioare. Aceasta aplicatie este de un interes major in viata de zi cu zi a oricarui programator, fiind o cale foarte convenabila inspre rezolvarea diferitelor dificultati sau clarificarea diferitelor nedumeriri.#GodBlessStack 
+  
+
