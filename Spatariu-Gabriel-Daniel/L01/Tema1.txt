@@ -16,6 +16,7 @@ Daca intrebarea nu este clara, nu prezinta interes,etc, aceasta poate sa fie vot
   Creearea unui cont se poate face pe baza de cont Google, cont Facebook , Git, sau creeare de cont neasociat unei aplicatii.
   Site-ul contine si un sistem de mesaje tip inbox pentru primirea diferitelor tipuri de notificari/mesaje.
   De asemenea, acest site contine si o sectiune dedicata persoanelor care sunt in cautarea unui job. Astfel, aceste persoane pot sa consulte diferite oferte de job si si acceseze pagini ale diferitelor firme care sunt in cautarea unor angajati.
-  Cu siguranta aceasta platforma contine si alte functionalitati, dar majoritatea dintre cele mai importante au fost descrise in liniile anterioare. Aceasta aplicatie este de un interes major in viata de zi cu zi a oricarui programator, fiind o cale foarte convenabila inspre rezolvarea diferitelor dificultati sau clarificarea diferitelor nedumeriri.#GodBlessStack 
+  Cu siguranta aceasta platforma contine si alte functionalitati, dar majoritatea dintre cele mai importante au fost descrise in liniile anterioare. Aceasta aplicatie este de un interes major in viata de zi cu zi a oricarui programator, 
+  fiind o cale foarte convenabila inspre rezolvarea diferitelor dificultati sau clarificarea diferitelor nedumeriri.#GodBlessStack 
   
 
