@@ -6,7 +6,9 @@ comunitatii in speranța găsirii unei solutii.
 
   Din momentul accesarii paginii web, aceasta se divide in doua ramuri."Pentru ezvoltatori",
 si "Pentru afaceri".
- Prima categorie sau ramură, se adreseaza publicului larg. Toate persoanele au acces la aceasta sectiune. Aici se pot lansa intrebari inspre ceilalti utilizatori. Aceste intrebari, se plaseaza sub forma unei sectiuni care poate cuprinde: un text care descrie problema, secvente de cod, alte materiale auxiliare si linkuri inspre diferite resurse. In plasarea intrebarii se pot folosi TAG-uri, inspre pozitionarea sectiunii intr-o anumita categorie cu intrebari asemanatoare, sau apartinand aceluiasi limbaj de programare. 
+ Prima categorie sau ramură, se adreseaza publicului larg. Toate persoanele au acces la aceasta sectiune. Aici se pot lansa intrebari inspre ceilalti utilizatori. Aceste intrebari, se plaseaza sub forma unei sectiuni care poate cuprinde:
+ un text care descrie problema, secvente de cod, alte materiale auxiliare si linkuri inspre diferite resurse.
+ In plasarea intrebarii se pot folosi TAG-uri, inspre pozitionarea sectiunii intr-o anumita categorie cu intrebari asemanatoare, sau apartinand aceluiasi limbaj de programare. 
   In sectiunea dedicata intrebarii, aceasta poate sa fie votata. Daca aceasta intrebare este de importanta generala, este structurata corect si clear, aceasta va primi un vot pozitiv.
 Daca intrebarea nu este clara, nu prezinta interes,etc, aceasta poate sa fie votata negativ.
   In sectiunea dedicata raspunsurilor, se gasesc comentarii si instructiuni inspre rezolvarea sau clarificarea problemei. De asemenea, raspunsurile pot sa fie la randul lor votate. Acumularea de puncte duce la primirea unor achievements. 
